@@ -9,3 +9,5 @@ console.log("정산 기능");
 console.log("검색 기능");
 
 console.log("추천 기능");
+
+console.log("리뷰 기능");
